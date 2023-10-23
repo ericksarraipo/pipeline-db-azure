@@ -1,0 +1,9 @@
+{
+	"name": "db-ericksarraipo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27718a76-624d-4717-802d-64bd39af447a",
+		"tenantId": "6cdd87b5-0f68-42d1-97dc-807e101ae22a"
+	}
+}
